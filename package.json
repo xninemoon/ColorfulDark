@@ -1,0 +1,20 @@
+{
+    "name": "colorfuldark",
+    "displayName": "ColorfulDark",
+    "description": "五彩斑斓的黑色主题",
+    "version": "0.0.1",
+    "publisher": "dyesorrow",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Colorful Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Colorful Dark-color-theme.json"
+        }]
+    }
+}
